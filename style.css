@@ -116,7 +116,7 @@
         .tab{   left:3rem;        
         }
         .s22{
-            bottom: -0.5rem;
+            bottom: -0.5grem;
         }
 
         /* FOOTER */
@@ -129,6 +129,7 @@
         }  
         footer{
             color: rgb(79, 75, 75);
+            border-top: 1px solid black;
         }
 i{
     color: black;
@@ -137,4 +138,5 @@ i{
 }
 .ftr-icons{
     color: black;
+    display: flex;
 }
