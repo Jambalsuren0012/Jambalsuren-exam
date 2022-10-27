@@ -115,6 +115,9 @@
         }
         .tab{   left:3rem;        
         }
+        .s22{
+            bottom: -0.5rem;
+        }
 
         /* FOOTER */
         .footer-menu{
@@ -131,4 +134,7 @@ i{
     color: black;
     height: 2rem;
     width: 2rem;
+}
+.ftr-icons{
+    color: black;
 }
