@@ -35,11 +35,7 @@
             color: black;
         }
    
-        i{
-            color: gray;
-            height: 1rem;
-            width: 1rem;
-        }   
+           
         h2{
             font-size: 2rem;
         } 
@@ -117,10 +113,7 @@
             font-weight: bold;
             font-size: 1.2rem;
         }
-        .tab{
-            
-
-
+        .tab{   left:3rem;        
         }
 
         /* FOOTER */
@@ -131,3 +124,11 @@
             width: 10vw;
             margin-right: 2rem;
         }  
+        footer{
+            color: rgb(79, 75, 75);
+        }
+i{
+    color: black;
+    height: 2rem;
+    width: 2rem;
+}
